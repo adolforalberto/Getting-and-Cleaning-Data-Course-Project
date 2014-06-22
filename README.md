@@ -1,5 +1,8 @@
 Getting-and-Cleaning-Data-Course-Project
 ========================================
+<br>
+All tha analysys is performed in the run_Analysis.R script<br>
+<br>
 
 *** Activities done in the script<br>
 Download the data set<br>
