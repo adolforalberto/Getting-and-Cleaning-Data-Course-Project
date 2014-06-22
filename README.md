@@ -20,21 +20,21 @@ Get Features Names into a vector<br>
 Complete Data Set Names<br>
 Assign Data set Names<br>
 <br>
-load activity labels
-Change activity labels
-
-Set Variable Names for Test Train DS 
-
-Write First tidy Data Set
-
-get mean() features
-get std() features
-merge mean() and stf() features
-sort mean() and std() features according to column positions
-Get Mean and std columns into a vector
-subset columns for mean and std
-
-Create Second Tidy Data Set with ddply
-Set Variable Names for Second Tidy DS
-Write Second tidy Data Set
+load activity labels<br>
+Change activity labels<br>
+<br>
+Set Variable Names for Test Train DS <br>
+<br>
+Write First tidy Data Set<br>
+<br>
+get mean() features<br>
+get std() features<br>
+merge mean() and stf() features<br>
+sort mean() and std() features according to column positions<br>
+Get Mean and std columns into a vector<br>
+subset columns for mean and std<br>
+<br>
+Create Second Tidy Data Set with ddply<br>
+Set Variable Names for Second Tidy DS<br>
+Write Second tidy Data Set<br>
 
