@@ -1,9 +1,9 @@
 Getting-and-Cleaning-Data-Course-Project
 ========================================
 
-#Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project<br>
 
-#Activities don in the script
+Activities don in the script
 Download the data set
 unzip the file
 load the 3 files of train data
