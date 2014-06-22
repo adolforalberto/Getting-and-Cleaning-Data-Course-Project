@@ -3,8 +3,9 @@ Getting-and-Cleaning-Data-Course-Project
 <br>
 All tha analysys is performed in the run_Analysis.R script<br>
 <br>
-
+******************<br>
 *** Activities done in the script<br>
+******************<br>
 Download the data set<br>
 unzip the file<br>
 load the 3 files of train data<br>
@@ -39,7 +40,9 @@ Create Second Tidy Data Set with ddply<br>
 Set Variable Names for Second Tidy DS<br>
 Write Second tidy Data Set<br>
 <br>
+******************<br>
 Variables of the second Tidy Data Set (step5)<br>
+******************<br>
 <br>
  Activity                 
  Length:180                                        
@@ -544,8 +547,11 @@ Variables of the second Tidy Data Set (step5)<br>
  <br>
  ------------
  <br>
- Brief description of the data in the Second Tidy Data Set (step 5)<br>
+ ******************<br>
+Brief description of the data in the Second Tidy Data Set (step 5)<br>
+******************<br>
  180 obs. of  68 variables:<br>
+******************<br>
  <br>$ Activity                                                          : chr  "LAYING" "LAYING" "LAYING" "LAYING" ...
  <br>$ Subject                                                           : int  1 2 3 4 5 6 7 8 9 10 ...
  <br>$ Average-of-Time-Signal-BodyAcc-mean-X-Axis                        : num  0.222 0.281 0.276 0.264 0.278 ...
